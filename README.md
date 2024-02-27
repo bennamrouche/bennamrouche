@@ -23,11 +23,7 @@
 
 
 ==============    ================      ================    ============== 
-
-
-  <a href="https://badge.mediaplus.ma/kettlebells/ebennamr" target="_blank">
-    <img src="https://badge.mediaplus.ma/kettlebells/ebennamr" alt="42 Stats" width="212" height="180">
-</a>                                                      
+                                                    
 
 [+]🧑‍💻 Certificate [+]
 

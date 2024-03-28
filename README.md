@@ -45,6 +45,10 @@
     <img src="https://github.com/bennamrouche/bennamrouche/raw/master/src/java.png" alt="Java" width="212" height="180">
 </a>
 
+<a href="https://github.com/bennamrouche/bennamrouche/raw/master/src/coding_game_speed.jpg" target="_blank">
+    <img src="https://github.com/bennamrouche/bennamrouche/raw/master/src/coding_game_speed.jpg" alt="C++" width="212" height="180">
+</a>
+
 
 
 

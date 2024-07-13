@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm El Mehdi Bennamrouche</h1>
-- 💬 Ask me about **java , c , c++**
+- 💬 Ask me about java , c, c++, js, python**
 
 
 - 📫 How to reach me **bennamrouchex@gmail.com**

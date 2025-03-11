@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm El Mehdi Bennamrouche</h1>
+![](https://komarev.com/ghpvc/?username=bennamrouche)
 - 💬 Ask me about java , c, c++, js, python**
 
 

@@ -1,167 +1,243 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+El+Mehdi+Bennamrouche;Software+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bennamrouche&label=Profile%20views&color=0e75b6&style=flat" alt="bennamrouche" />
-  <img src="https://img.shields.io/github/followers/bennamrouche?label=Followers&style=social" alt="followers" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</p>
-
-## 👨‍💻 About Me
-
-```javascript
-const elMehdi = {
-    location: "Morocco 🇲🇦",
-    currentFocus: "Building scalable applications",
-    languages: ["Java", "C", "C++", "JavaScript", "Python"],
-    interests: ["Competitive Programming", "Open Source", "Problem Solving"],
-    funFact: "I debug with print statements and I'm not ashamed! 🐛"
-};
+```
+███████╗██╗         ███╗   ███╗███████╗██╗  ██╗██████╗ ██╗
+██╔════╝██║         ████╗ ████║██╔════╝██║  ██║██╔══██╗██║
+█████╗  ██║         ██╔████╔██║█████╗  ███████║██║  ██║██║
+██╔══╝  ██║         ██║╚██╔╝██║██╔══╝  ██╔══██║██║  ██║██║
+███████╗███████╗    ██║ ╚═╝ ██║███████╗██║  ██║██████╔╝██║
+╚══════╝╚══════╝    ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝
+                                                            
+██████╗ ███████╗███╗   ██╗███╗   ██╗ █████╗ ███╗   ███╗██████╗  ██████╗ ██╗   ██╗ ██████╗██╗  ██╗███████╗
+██╔══██╗██╔════╝████╗  ██║████╗  ██║██╔══██╗████╗ ████║██╔══██╗██╔═══██╗██║   ██║██╔════╝██║  ██║██╔════╝
+██████╔╝█████╗  ██╔██╗ ██║██╔██╗ ██║███████║██╔████╔██║██████╔╝██║   ██║██║   ██║██║     ███████║█████╗  
+██╔══██╗██╔══╝  ██║╚██╗██║██║╚██╗██║██╔══██║██║╚██╔╝██║██╔══██╗██║   ██║██║   ██║██║     ██╔══██║██╔══╝  
+██████╔╝███████╗██║ ╚████║██║ ╚████║██║  ██║██║ ╚═╝ ██║██║  ██║╚██████╔╝╚██████╔╝╚██████╗██║  ██║███████╗
+╚═════╝ ╚══════╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝
 ```
 
-- 🔭 I'm currently working on **exciting projects**
-- 🌱 I'm constantly learning and improving my skills
-- 💬 Ask me about **Java, C, C++, JavaScript, Python**
-- 📫 Reach me at: **bennamrouchex@gmail.com**
-- ⚡ Fun fact: **Coffee + Code = Magic ☕💻**
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=LEVEL+UP!+WELCOME+TO+MY+PROFILE;SOFTWARE+ENGINEER+%7C+CODE+WARRIOR;QUEST%3A+BUILD+AWESOME+APPLICATIONS;STATUS%3A+ALWAYS+LEARNING" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+![Profile Views](https://komarev.com/ghpvc/?username=bennamrouche&color=green&style=plastic&label=VISITORS)
+![GitHub Followers](https://img.shields.io/github/followers/bennamrouche?style=social)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
+## 🎮 PLAYER STATS
 
-### Tools & Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
+</div>
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bennamrouche&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="bennamrouche's stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bennamrouche&theme=tokyonight&hide_border=true&background=0D1117" alt="bennamrouche's streak"/>
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennamrouche&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bennamrouche&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophy"/>
-</p>
+```
+╔════════════════════════════════════════════════════════════╗
+║                      PLAYER PROFILE                        ║
+╠════════════════════════════════════════════════════════════╣
+║  NAME:        El Mehdi Bennamrouche                        ║
+║  CLASS:       Full Stack Developer                         ║
+║  LOCATION:    Morocco 🇲🇦                                  ║
+║  LEVEL:       Expert                                       ║
+║  XP:          10000+                                       ║
+║  GUILD:       Open Source Contributors                     ║
+╠════════════════════════════════════════════════════════════╣
+║  HP:  ████████████████████████ 100/100                    ║
+║  MP:  ████████████████████████ 100/100                    ║
+║  STR: ████████████████████░░░░  85/100  [JAVA]            ║
+║  INT: ████████████████████░░░░  85/100  [ALGORITHMS]      ║
+║  DEX: ████████████████████░░░░  85/100  [C/C++]           ║
+║  LUK: ██████████████████░░░░░░  80/100  [PROBLEM SOLVING] ║
+╚════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-## 📈 Contribution Graph
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bennamrouche&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
-</p>
+## ⚔️ EQUIPMENT & ABILITIES
 
----
+</div>
 
-## 🏆 Certifications
+<table align="center">
+<tr>
+<td width="50%">
 
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="25%">
-        <a href="https://github.com/bennamrouche/bennamrouche/raw/master/src/c.jpg" target="_blank">
-          <img src="https://github.com/bennamrouche/bennamrouche/raw/master/src/c.jpg" alt="C Certificate" width="180" height="150"/><br/>
-          <b>C Programming</b>
-        </a>
-      </td>
-      <td align="center" width="25%">
-        <a href="https://github.com/bennamrouche/bennamrouche/raw/master/src/cpp.png" target="_blank">
-          <img src="https://github.com/bennamrouche/bennamrouche/raw/master/src/cpp.png" alt="C++ Certificate" width="180" height="150"/><br/>
-          <b>C++ Programming</b>
-        </a>
-      </td>
-      <td align="center" width="25%">
-        <a href="https://github.com/bennamrouche/bennamrouche/raw/master/src/html.jpeg" target="_blank">
-          <img src="https://github.com/bennamrouche/bennamrouche/raw/master/src/html.jpeg" alt="HTML Certificate" width="180" height="150"/><br/>
-          <b>HTML</b>
-        </a>
-      </td>
-      <td align="center" width="25%">
-        <a href="https://github.com/bennamrouche/bennamrouche/raw/master/src/java.png" target="_blank">
-          <img src="https://github.com/bennamrouche/bennamrouche/raw/master/src/java.png" alt="Java Certificate" width="180" height="150"/><br/>
-          <b>Java Programming</b>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="4">
-        <a href="https://github.com/bennamrouche/bennamrouche/raw/master/src/coding_game_speed.jpg" target="_blank">
-          <img src="https://github.com/bennamrouche/bennamrouche/raw/master/src/coding_game_speed.jpg" alt="Coding Game Certificate" width="180" height="150"/><br/>
-          <b>Coding Game - Speed Challenge</b>
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
+### 🗡️ WEAPONS (Languages)
+```javascript
+inventory = {
+  primary: "Java ⚔️",
+  secondary: "C/C++ 🛡️",
+  magic: "Python 🔮",
+  ranged: "JavaScript 🏹",
+  special: "HTML/CSS 🎨"
+}
+```
+
+</td>
+<td width="50%">
+
+### 🛡️ ARMOR (Frameworks)
+```python
+equipped = {
+  "helmet": "React ⛑️",
+  "chest": "Spring Boot 🦺",
+  "gloves": "Node.js 🧤",
+  "boots": "Django 👢",
+  "shield": "Docker 🛡️"
+}
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔗 Connect with Me
+<div align="center">
 
+## 🎯 SKILL TREE
+
+</div>
+
+### 💻 Programming Languages
 <p align="center">
-  <a href="https://linkedin.com/in/el-mehdi-bennamrouche" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:bennamrouchex@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://fb.com/alphaben.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://instagram.com/alphaben.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.hackerrank.com/alphaben" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
-  <a href="https://www.leetcode.com/alphaben" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,ts,html,css&theme=dark" />
+</p>
+
+### 🌐 Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,tailwind,bootstrap&theme=dark" />
+</p>
+
+### 🗄️ Databases & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,git,docker,linux,nginx,postman&theme=dark" />
+</p>
+
+### 🎨 Design Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,vscode,idea&theme=dark" />
 </p>
 
 ---
 
-## 💡 Random Dev Quote
+<div align="center">
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
+
+
+<div align="center">
+
+## 🎖️ CERTIFICATION BADGES
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/bennamrouche/bennamrouche/raw/master/src/c.jpg" width="120" height="100" /><br/>
+      <img src="https://img.shields.io/badge/C_MASTER-UNLOCKED-success?style=for-the-badge" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/bennamrouche/bennamrouche/raw/master/src/cpp.png" width="120" height="100" /><br/>
+      <img src="https://img.shields.io/badge/C++_MASTER-UNLOCKED-success?style=for-the-badge" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/bennamrouche/bennamrouche/raw/master/src/java.png" width="120" height="100" /><br/>
+      <img src="https://img.shields.io/badge/JAVA_MASTER-UNLOCKED-success?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/bennamrouche/bennamrouche/raw/master/src/html.jpeg" width="120" height="100" /><br/>
+      <img src="https://img.shields.io/badge/HTML_MASTER-UNLOCKED-success?style=for-the-badge" />
+    </td>
+    <td align="center" colspan="2">
+      <img src="https://github.com/bennamrouche/bennamrouche/raw/master/src/coding_game_speed.jpg" width="120" height="100" /><br/>
+      <img src="https://img.shields.io/badge/SPEED_DEMON-UNLOCKED-success?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/bennamrouche">bennamrouche</a></i>
-</p>
+## 🌐 GUILD CONNECTIONS
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-JOIN_PARTY-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/el-mehdi-bennamrouche)
+[![Email](https://img.shields.io/badge/EMAIL-SEND_MESSAGE-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bennamrouchex@gmail.com)
+[![Facebook](https://img.shields.io/badge/FACEBOOK-ADD_FRIEND-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/alphaben.dev)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alphaben.dev)
+
+### ⚔️ COMPETITIVE ARENAS
+
+[![HackerRank](https://img.shields.io/badge/HACKERRANK-CHALLENGE_ME-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/alphaben)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-BATTLE_MODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/alphaben)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 CONTRIBUTION GRAPH
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bennamrouche&theme=github-compact&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 💬 QUEST LOG
+
+```
+[ACTIVE QUESTS]
+├─ 🎯 Master System Design...................[▓▓▓▓▓░░░░░] 50%
+├─ 🎯 Contribute to Open Source..............[▓▓▓▓▓▓▓░░░] 70%
+├─ 🎯 Build Portfolio Projects...............[▓▓▓▓▓▓▓▓░░] 80%
+└─ 🎯 Learn Cloud Architecture...............[▓▓▓▓░░░░░░] 40%
+
+[COMPLETED QUESTS]
+✅ Learn Java Programming
+✅ Master C/C++
+✅ Complete HTML/CSS Certification
+✅ Win Coding Game Speed Challenge
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎲 RANDOM LOOT DROP
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════╗
+║              THANKS FOR VISITING MY PROFILE!               ║
+║                                                            ║
+║         Press [⭐] to save your progress                   ║
+║         Press [👥] to join the party                       ║
+║                                                            ║
+║              GAME OVER? NEVER! RESPAWNING...              ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+**⭐ FROM [BENNAMROUCHE](https://github.com/bennamrouche) | POWERED BY ☕ & 💚**
+
+</div>
